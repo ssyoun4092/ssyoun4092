@@ -8,8 +8,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssyoun4092)](https://solved.ac/ssyoun4092)
 
 # 🔥 Skills
-[![Tech Blog Badge](http://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple)](https://zzsza.github.io/) [![Tech Blog Badge](http://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://zzsza.github.io/)
+![Tech Blog Badge](http://img.shields.io/badge/-iOS-black?style=flat-square&logo=apple) ![Tech Blog Badge](http://img.shields.io/badge/-swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 # 🔨 Tools
-[![Tech Blog Badge](http://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)](https://zzsza.github.io/) [![Tech Blog Badge](http://img.shields.io/badge/-xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)](https://zzsza.github.io/)
+![Tech Blog Badge](http://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white) ![Tech Blog Badge](http://img.shields.io/badge/-xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
