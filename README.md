@@ -2,7 +2,7 @@
 
 # 👋 Hi I'm  iOS Developer
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Daily%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ssyoun4092/)](https://zzsza.github.io/) [![Tech Blog Badge](http://img.shields.io/badge/-instagram-bd93d8?style=flat-square&logo=instagram&link=instagram://user?username=ssyoun4092/)](https://zzsza.github.io/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Daily%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ssyoun4092/)](https://blog.naver.com/ssyoun4092) [![Tech Blog Badge](http://img.shields.io/badge/-instagram-bd93d8?style=flat-square&logo=instagram&link=instagram://user?username=ssyoun4092/)](instagram://user?username=ssyoun4092/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssyoun4092)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssyoun4092)](https://solved.ac/ssyoun4092)
